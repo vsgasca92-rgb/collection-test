@@ -1,0 +1,10 @@
+objectid,parentid,format,filename,title,description,latitude,longitude,source,identifier,type,language,rights,rightsstatement,youtubeid,vimeoid,creator,date,subject,location
+coll001,,image/jpeg,20260609_103332.jpg,"Via Eliseo Raimondi, 1","Via Eliseo Raimondi, 1, 26100 Cremona CR, Italia",10.0190417,45.1438098,,,,,,,,,,,,
+coll002,,image/jpeg,test002.jpg,"This second row is just to show you how ""objectid"" and ""format"" should be filled. While you can choose the ids  for ""objectid"", ""format"" must always be ""image/jpeg"" or ""image/png"" (see CollectionBuilder documentation for complete tags). Remind that ""filename"" content must be the same of the files' names uploaded to ""objects"" folder",,,,,,,,,,,,,,,
+coll003,,multiple,,,,,,,,,,,,,,,,,
+coll004,coll003,image/jpeg,,,,,,,,,,,,,,,,,
+coll005,coll003,image/jpeg,,,,,,,,,,,,,,,,,
+coll006,,compound_object,,,,,,,,,,,,,,,,,
+coll007,coll006,image/jpeg,,,,,,,,,,,,,,,,,
+coll008,coll006,video/mp4,,,,,,,,,,,,,,,,,
+coll009,coll006,audio/mp3,,,,,,,,,,,,,,,,,
